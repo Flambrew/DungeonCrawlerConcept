@@ -1,0 +1,8 @@
+0 - move up
+1 - move right
+2 - move down
+3 - move left
+4 - 
+5 - 
+6 - 
+7 - no action made

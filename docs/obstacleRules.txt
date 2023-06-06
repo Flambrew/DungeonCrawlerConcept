@@ -1,0 +1,11 @@
+> Walls
+    > all landed entities are blocked
+> Doors
+    > all landed enemies are blocked
+> Gates
+    > can be opened by players
+    > cannot be closed
+    > closed
+        > all landed enemies are blocked
+    > open
+        > all entities can cross

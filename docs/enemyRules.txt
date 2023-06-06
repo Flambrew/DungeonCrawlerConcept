@@ -1,0 +1,57 @@
+> Difficulty
+    > increases by one for every 100 score
+    > 0
+        > 75% Tier 0
+        > 20% Tier 1
+        > 05% Tier 2
+    > 1
+        > 20% Tier 0
+        > 60% Tier 1
+        > 15% Tier 2
+        > 05% Tier 3
+    > 2
+        > 20% Tier 1
+        > 60% Tier 2
+        > 15% Tier 3
+        > 05% Tier 5
+    > 3
+        > 20% Tier 2
+        > 50% Tier 3
+        > 15% Tier 4
+        > 10% Tier 5
+        > 05% Tier 6
+    > 4
+        > 20% Tier 3
+        > 60% Tier 4
+        > 15% Tier 5
+        > 05% Tier 6
+
+> Enemy Tiers
+    > 0
+        > max health 5 + 0..5
+        > max damage 6 + 0..3
+    > 1
+        > max health 10 + 0..5
+        > max damage 9 + 0..3
+    > 2
+        > max health 15 + 0..5
+        > max damage 12 + 0..3
+    > 3
+        > max health 20 + 0..5
+        > max damage 15 + 0..5
+    > 4
+        > max health 25 + 0..5
+        > max damage 18 + 0..5
+    > 5
+        > max health 25 + 0..10
+        > max damage 23 + 0..5
+    > 6
+        > (miniboss)
+        > max health 25 + 0..20
+        > max damage 30 + 0..10
+    > 7
+        > (boss)
+        > max health XX
+        > max damage XX
+
+> Floors

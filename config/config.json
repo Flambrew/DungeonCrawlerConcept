@@ -1,0 +1,85 @@
+{
+    "Stage": {
+        " # Enemy count at difficulty zero (Accepted values: 0..100)": null,
+        "baseEnemyCount": 100,
+        " # Additional enemies per difficulty level (Accepted values: 0..10)": null,
+        "enemyCountScaler": 5,
+        " # Percent chance for an enemy to move (Accepted values: 0..100)": null,
+        "percentChanceToMoveEnemies": 60,
+        " # Distance from which enemies will lock on to a player (Accepted Values: 0..4)": null,
+        "recognitionDistance": 3
+    },
+    "Player": {
+        "health": 100,
+        "damage": 5,
+        "damageVariation": 5
+    },
+    "Enemy": {
+        "CaveBat": {
+            "health": 5,
+            "healthVariation": 5,
+            "damage": 3,
+            "damageVariation": 3
+        },
+        "Slime": {
+            "health": 5,
+            "healthVariation": 5,
+            "damage": 6,
+            "damageVariation": 3
+        },
+        "Ghost": {
+            "health": 5,
+            "healthVariation": 5,
+            "damage": 9,
+            "damageVariation": 3
+        },
+        "Gremlin": {
+            "health": 10,
+            "healthVariation": 5,
+            "damage": 9,
+            "damageVariation": 3
+        },
+        "Spider": {
+            "health": 10,
+            "healthVariation": 5,
+            "damage": 6,
+            "damageVariation": 3
+        },
+        "ClayWarrior": {
+            "health": 15,
+            "healthVariation": 5,
+            "damage": 9,
+            "damageVariation": 1
+        },
+        "Floater": {
+            "health": 10,
+            "healthVariation": 5,
+            "damage": 12,
+            "damageVariation": 3
+        },
+        "Goblin": {
+            "health": 15,
+            "healthVariation": 5,
+            "damage": 12,
+            "damageVariation": 3
+        },
+        "Berserker": {
+            "health": 15,
+            "healthVariation": 5,
+            "damage": 15,
+            "damageVariation": 5
+        },
+        "StoneGolem": {
+            "health": 25,
+            "healthVariation": 5,
+            "damage": 15,
+            "damageVariation": 3
+        },
+        "Ogre": {
+            "health": 20,
+            "healthVariation": 5,
+            "damage": 18,
+            "damageVariation": 5
+        }
+    }
+}
